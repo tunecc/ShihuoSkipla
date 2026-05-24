@@ -1,0 +1,9 @@
+Package: com.tune.shihuoskipla
+Name: ShihuoSkipla
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: 跳过识货的开屏广告，基于8.75开发，如果不生效尝试清理一次缓存
+Maintainer: Tune
+Author: Tune
+Section: Tweaks
+Depends: firmware (>= 12.4)
